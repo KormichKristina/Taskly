@@ -1,1 +1,3 @@
-<img heigth=300px src="https://github.com/KormichKristina/Taskly/blob/master/assets/goals.png">
+<img heigth=150px src="https://github.com/KormichKristina/Taskly/blob/master/assets/goals.png"><br>
+## Taskly - небольшое приложение для планирования задач, а также для осуществления желаний. В основные функции приложения входят создание задач/желаний, удаление задач/желаний, их просмотр и выполнение.
+### Скриншоты
