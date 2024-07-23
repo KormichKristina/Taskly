@@ -1,1 +1,1 @@
-# Taskly
+<img heigth=300px src="https://github.com/KormichKristina/Taskly/blob/master/assets/goals.png">
